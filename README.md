@@ -6,9 +6,9 @@ An app to boost learning of scinece in young kids designed in Flutter. It availa
 
 You need to download the code and compile it.
 
-<img src="screenshot1" width="30%" height="30%">
-<img src="screenshot2" width="30%" height="30%">
-<img src="screenshot3" width="30%" height="30%">
+<img src="screenshot1.jpg" width="30%" height="30%">
+<img src="screenshot2.jpg" width="30%" height="30%">
+<img src="screenshot3.jpg" width="30%" height="30%">
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
